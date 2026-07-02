@@ -1,0 +1,4 @@
+language,tickets,accuracy_pct,automation_pct,automated_accuracy_pct,avg_confidence
+English,5746,89.42,84.81,94.75,0.911
+Spanish,1349,77.02,75.02,84.19,0.825
+Hindi,905,74.14,70.06,84.38,0.799

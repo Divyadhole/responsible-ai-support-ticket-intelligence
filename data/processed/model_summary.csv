@@ -1,0 +1,2 @@
+tickets,accuracy_pct,automation_pct,automated_accuracy_pct,avg_confidence,avg_latency_ms,total_cost_usd
+8000,85.6,81.49,92.1,0.884,114.7,82.05

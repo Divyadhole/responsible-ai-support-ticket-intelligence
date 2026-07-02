@@ -1,0 +1,13 @@
+{
+  "tickets": 8000,
+  "accuracy_pct": 85.6,
+  "automation_pct": 81.49,
+  "automated_accuracy_pct": 92.1,
+  "avg_confidence": 0.884,
+  "avg_latency_ms": 114.7,
+  "total_cost_usd": 82.05,
+  "accuracy_gap_pp": 15.28,
+  "automation_gap_pp": 14.75,
+  "high_risk_escaped": 0,
+  "deployment_status": "Hold for remediation"
+}
