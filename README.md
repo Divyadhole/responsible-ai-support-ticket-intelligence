@@ -97,10 +97,3 @@ make test
 - Equal aggregate accuracy does not prove individual fairness or equal service quality.
 - Production deployment requires reviewed real-world labels, privacy controls, drift alerts, override logging, and incident response.
 
-## Interview walkthrough
-
-1. Begin with the dashboard deployment decision.
-2. Explain why automation coverage must accompany accuracy.
-3. Demonstrate a clear ticket, an ambiguous ticket, and a high-risk ticket.
-4. Compare language accuracy and automation gaps.
-5. Close with the human-review policy and production limitations.
