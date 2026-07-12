@@ -30,6 +30,7 @@ No external packages, API keys, or paid model services are required.
 - **Fairness monitoring:** accuracy and automation coverage are compared across English, Spanish, and Hindi tickets
 - **Operational monitoring:** daily accuracy, automation, cost, and latency are tracked
 - **Deployment gates:** selective accuracy, language gap, and high-risk escapes determine the recommendation
+- **Live simulator:** recruiters can enter a ticket and inspect its queue, confidence, evidence, and human-review decision
 
 ## Architecture
 
@@ -78,6 +79,8 @@ Interactive governance dashboard
 │   ├── build_database.py        # SQLite warehouse
 │   ├── evaluate.py              # Governance and fairness gates
 │   └── report.py                # Interactive dashboard
+├── docs/model_card.md           # Intended use, evaluation, limitations
+├── docs/governance.md           # Ownership, gates, monitoring, incidents
 ├── tests/
 └── run_pipeline.py
 ```
